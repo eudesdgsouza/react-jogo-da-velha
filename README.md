@@ -4,6 +4,9 @@ Um clássico jogo da velha (Tic-Tac-Toe) desenvolvido com **ReactJS** e animaç�
 
 ---
 
+## Deploy
+- [Live](https://react-jogo-da-velha-hazel.vercel.app/)
+
 ## **🎮 Funcionalidades**  
 
 - 🆚 **Modo Jogador vs Jogador**: Desafie seus amigos em partidas rápidas e divertidas.  
